@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://fewbox.com/sitemap.xml
+Sitemap: https://hoort.github.io/sitemap.xml

@@ -1,26 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fewbox.com/404.tsx</loc>
+    <loc>https://hoort.github.io/404</loc>
   </url>
 
   <url>
-    <loc>https://fewbox.com/500.tsx</loc>
+    <loc>https://hoort.github.io/500</loc>
   </url>
 
   <url>
-    <loc>https://fewbox.com</loc>
+    <loc>https://hoort.github.io</loc>
   </url>
 
   <url>
-    <loc>https://fewbox.com/_app.tsx</loc>
+    <loc>https://hoort.github.io/about</loc>
   </url>
 
   <url>
-    <loc>https://fewbox.com/about</loc>
+    <loc>https://hoort.github.io/document-designer</loc>
   </url>
 
   <url>
-    <loc>https://fewbox.com/pricing</loc>
+    <loc>https://hoort.github.io/pricing</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/robot-designer</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/features/email</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/features/facebook</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/features/instagram</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/features/tiktok</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/features/twitter</loc>
+  </url>
+
+  <url>
+    <loc>https://hoort.github.io/features/wechat</loc>
   </url>
 </urlset>
